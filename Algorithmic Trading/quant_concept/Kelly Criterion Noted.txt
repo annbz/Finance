@@ -1,0 +1,12 @@
+Summary of the Output(Kelly Criterion):
+
+"The log of terminal financial wealth is 2.0302" means that after running the simulation:
+- The average log of final wealth is 2.0302.
+- When converted back to actual wealth: 𝑒2.0302 ≈ 7.88
+
+So, on average, the final wealth becomes 7.88 times the initial capital (e.g., $1 grows to $7.88) after 100 bets using the Kelly strategy (betting 20% of the capital each time).
+
+Key Points:
+- The simulation uses Kelly Criterion, which optimizes bet sizing to maximize long-term exponential growth while minimizing the risk of ruin.
+- The result shows that using this method with a 60% win rate and 1:1 payout ratio, your capital can grow significantly over time.
+- The use of logarithmic wealth (log(wealth)) reflects compound growth, which is more realistic for measuring wealth accumulation in trading and investing.
