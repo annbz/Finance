@@ -6,3 +6,9 @@ Probabiity Distribution Statistics
 - Std dev.
 - skewness: symmetric of graph?
 - Kurtosis: jump of price=?
+
+Stochastic Models
+- Arithmetic Brownian Motion (ABM)
+- Geometric Brownian Motion (GBM)
+- Ornstein–Uhlenbeck Process
+- Jump-diffusion model (merton)
