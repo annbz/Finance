@@ -1,0 +1,8 @@
+Probabiity Distribution Statistics
+- Mean
+- Median
+- Maximum
+- Minimum
+- Std dev.
+- skewness: symmetric of graph?
+- Kurtosis: jump of price=?
