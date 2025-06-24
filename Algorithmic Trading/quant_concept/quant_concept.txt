@@ -14,3 +14,5 @@ Stochastic Models
 - Jump-diffusion model (merton)
 
 Value at Risk (VaR)
+
+Delta Hedging
