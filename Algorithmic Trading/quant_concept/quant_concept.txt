@@ -15,4 +15,9 @@ Stochastic Models
 
 Value at Risk (VaR)
 
+Black and Scholes Model:
+ Coption = ..... (bs price)
+ d1 = .... (bs delta)
+ d2 = ....
+
 Delta Hedging
