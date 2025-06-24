@@ -21,3 +21,5 @@ Black and Scholes Model:
  d2 = ....
 
 Delta Hedging
+
+Implied Volatility = mood of the market
