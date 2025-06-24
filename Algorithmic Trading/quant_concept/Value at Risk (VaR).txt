@@ -1,0 +1,16 @@
+Historical Value at Risk (VaR) Simulation
+1. Download Data
+2. Compute Daily Returns: Calculates the percentage change between each day’s closing price.
+3. Visualize Return Distribution: Plots histograms of the daily returns scaled to a 30-day window to show how volatile each asset is.
+4. Calculate 1-Day Historical VaR: Finds the 5th percentile of historical returns (1 - 95% confidence), which represents the worst expected daily loss with 95% confidence.
+5. Scale to 30-Day VaR: Multiplies the 1-day VaR by the square root of 30 (√30), assuming returns are independent and identically distributed (IID).
+6. Display Results: Prints out the estimated 30-day VaR for each asset.
+
+30-Day Value at Risk (95% Confidence):
+BTC-USD: 0.1725
+TSLA:    0.1980
+
+This means:
+With 95% confidence, 
+- Bitcoin is not expected to lose more than 17.25% of its value over the next 30 days.
+- Tesla is not expected to lose more than 19.80% over the same period.                                                                             
