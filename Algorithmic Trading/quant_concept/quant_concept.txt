@@ -12,3 +12,5 @@ Stochastic Models
 - Geometric Brownian Motion (GBM)
 - Ornstein–Uhlenbeck Process
 - Jump-diffusion model (merton)
+
+Value at Risk (VaR)
